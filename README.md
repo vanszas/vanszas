@@ -1,11 +1,18 @@
-# 🙋‍♂️ Ivan Susendra (Vanszas)
----
-![Profile views](https://komarev.com/ghpvc/?username=vanszas&label=Profile%20views&color=0e76a8&style=flat)
-
-## Game Developer | Gameplay Programmer | 3D Modeler
----
-
-> I’m diving deep into game development with the goal of creating games that everyone can enjoy—featuring appealing visuals, strong performance optimization, creative design, and an affordable experience. For the past 1.5 years, I’ve been focusing on 3D modeling and developing games in Unreal Engine 5. I’m proficient with Unreal Engine’s Blueprint system and also use C++ for game development.
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h1>🙋‍♂️ Ivan Susendra (Vanszas)</h1>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=vanszas&label=Profile%20views&color=0e76a8&style=flat" alt="Profile views" />
+      </p>
+      <h3>Game Developer | Gameplay Programmer | 3D Modeler</h3>
+      <p>I’m diving deep into game development with the goal of creating games that everyone can enjoy—featuring appealing visuals, strong performance optimization, creative design, and an affordable experience. For the past 1.5 years, I’ve been focusing on 3D modeling and developing games in Unreal Engine 5. I’m proficient with Unreal Engine’s Blueprint system and also use C++ for game development.</p>
+    </td>
+    <td valign="top" width="30%" align="center">
+      <img src="avatar.png" width="180" alt="Ivan Susendra" />
+    </td>
+  </tr>
+</table>
 
 ### 🏢 Experience
 * 🎮 Game Developer & Co-Founder at **Monokotil Studio** (Indie team specializing in psychological & first-person horror games)
@@ -20,8 +27,8 @@
 </p>
 
 ### 📚 Currently Learning
-* Advanced multiplayer replication & network optimization in Unreal Engine 5.
-* Advanced 3D modeling workflows and shader creation.
+* Advanced gameplay systems and performance optimization in Unreal Engine 5 C++.
+* Advanced level design workflows and lighting techniques.
 
 ### 🤝 Looking to Collaborate
 * Psychological and first-person horror game projects at **Monokotil Studio**.
