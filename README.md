@@ -1,21 +1,16 @@
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      <h1>🙋‍♂️ Ivan Susendra (Vanszas)</h1>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=vanszas&label=Profile%20views&color=0e76a8&style=flat" alt="Profile views" />
-      </p>
-      <h3>Game Developer | Gameplay Programmer | 3D Modeler</h3>
-      <p>
-        🌐 <b>Portfolio:</b> <a href="https://monokotil-studio.biz.id/en/team/vanszas" target="_blank">monokotil-studio.biz.id/team/vanszas</a>
-      </p>
-      <p>I’m diving deep into game development with the goal of creating games that everyone can enjoy—featuring appealing visuals, strong performance optimization, creative design, and an affordable experience. For the past 1.5 years, I’ve been focusing on 3D modeling and developing games in Unreal Engine 5. I’m proficient with Unreal Engine’s Blueprint system and also use C++ for game development.</p>
-    </td>
-    <td valign="top" width="30%" align="center">
-      <img src="avatar.png" width="180" alt="Ivan Susendra" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="github_welcome_pixel_avatar.gif" alt="Welcome Banner" width="100%" />
+</p>
+
+# 🙋‍♂️ Ivan Susendra (Vanszas)
+---
+![Profile views](https://komarev.com/ghpvc/?username=vanszas&label=Profile%20views&color=0e76a8&style=flat)
+
+## Game Developer | Gameplay Programmer | 3D Modeler
+---
+🌐 **Portfolio:** [monokotil-studio.biz.id/team/vanszas](https://monokotil-studio.biz.id/en/team/vanszas)
+
+> I’m diving deep into game development with the goal of creating games that everyone can enjoy—featuring appealing visuals, strong performance optimization, creative design, and an affordable experience. For the past 1.5 years, I’ve been focusing on 3D modeling and developing games in Unreal Engine 5. I’m proficient with Unreal Engine’s Blueprint system and also use C++ for game development.
 
 ### 🏢 Experience
 * 🎮 Game Developer & Co-Founder at **Monokotil Studio** (Indie team specializing in psychological & first-person horror games)
