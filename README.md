@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unrealengine" />
   <img src="https://img.shields.io/badge/Blueprints-%230E76A8.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="blueprints" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
-  <img src="https://img.shields.io/badge/premiere_pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="premiere" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </p>
 
@@ -67,6 +65,10 @@
 
 ### 🏆 Contribution Grid Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake-dark.svg" alt="Vanszas's Contribution Grid Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake.svg" />
+    <img alt="Vanszas's Contribution Grid Snake" src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
