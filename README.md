@@ -1,21 +1,52 @@
-import re
-import sys
+# 🙋‍♂️ Ivan Susendra (Vanszas)
+---
+![Profile views](https://komarev.com/ghpvc/?username=vanszas&label=Profile%20views&color=0e76a8&style=flat)
 
-with open(r"C:\Users\ADMIN\.gemini\antigravity\brain\7f09aa8d-19ea-48b4-8568-9b4be0e9743e\.system_generated\steps\29\content.md", "r", encoding="utf-8") as f:
-    html = f.read()
+## Game Developer | Gameplay Programmer | 3D Modeler
+---
 
-# Let's find some keywords or text content
-text_content = re.sub('<[^<]+?>', ' ', html)
-text_content = re.sub(r'\s+', ' ', text_content)
+> I’m diving deep into game development with the goal of creating games that everyone can enjoy—featuring appealing visuals, strong performance optimization, creative design, and an affordable experience. For the past 1.5 years, I’ve been focusing on 3D modeling and developing games in Unreal Engine 5. I’m proficient with Unreal Engine’s Blueprint system and also use C++ for game development.
 
-skills = ["Unity", "Blender", "Maya", "Photoshop", "Premiere", "After Effects", "C#", "C++", "Python", "Blueprint", "Unreal"]
-found_skills = [s for s in skills if s.lower() in html.lower()]
+### 🏢 Experience
+* 🎮 Game Developer & Co-Founder at **Monokotil Studio** (Indie team specializing in psychological & first-person horror games)
+* 📍 Based in **Indonesia**
 
-links = re.findall(r'href="([^"]+)"', html)
-unique_links = list(set(links))
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unrealengine" />
+  <img src="https://img.shields.io/badge/Blueprints-%230E76A8.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="blueprints" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
+  <img src="https://img.shields.io/badge/premiere_pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="premiere" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+</p>
 
-with open(r"C:\Users\ADMIN\.gemini\antigravity\brain\7f09aa8d-19ea-48b4-8568-9b4be0e9743e\scratch\parsed_info.txt", "w", encoding="utf-8") as out:
-    out.write("FOUND SKILLS: " + ", ".join(found_skills) + "\n\n")
-    out.write("TEXT CONTENT PREVIEW:\n" + text_content[:4000] + "\n\n")
-    out.write("LINKS:\n" + "\n".join(unique_links) + "\n")
-print("Done writing to parsed_info.txt")
+### 📚 Currently Learning
+* Advanced multiplayer replication & network optimization in Unreal Engine 5.
+* Advanced 3D modeling workflows and shader creation.
+
+### 🤝 Looking to Collaborate
+* Psychological and first-person horror game projects at **Monokotil Studio**.
+* Indie game jams and collaborative gameplay programming projects.
+
+### 💬 Ask Me About
+* Game development, Unreal Engine 5, Blueprints scripting, C++ coding, and 3D modeling.
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ivan-susendra?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/vanszas?igsh=cjIzNHV2dDhyazk0" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@vanszas?si=HhZUcV1oGZEP0Qu4" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:ivansusendra5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ivansusendra5%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
