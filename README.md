@@ -50,3 +50,23 @@
     <img src="https://img.shields.io/badge/Email-ivansusendra5%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanszas&show_icons=true&bg_color=0e0e0e&title_color=86e6fe&icon_color=86e6fe&text_color=f5f5f5&border_color=1f1f1f&locale=en" alt="Vanszas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanszas&layout=compact&bg_color=0e0e0e&title_color=86e6fe&icon_color=86e6fe&text_color=f5f5f5&border_color=1f1f1f&locale=en" alt="Vanszas's Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanszas&theme=dark&background=0e0e0e&ring=86e6fe&fire=86e6fe&currStreakNum=f5f5f5&sideNums=f5f5f5&sideLabels=f5f5f5&dates=f5f5f5&currStreakLabel=86e6fe" alt="Vanszas's Streak Stats" />
+</p>
+
+---
+
+### 🏆 Contribution Grid Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake-dark.svg" alt="Vanszas's Contribution Grid Snake" />
+</p>
+
