@@ -6,6 +6,9 @@
         <img src="https://komarev.com/ghpvc/?username=vanszas&label=Profile%20views&color=0e76a8&style=flat" alt="Profile views" />
       </p>
       <h3>Game Developer | Gameplay Programmer | 3D Modeler</h3>
+      <p>
+        🌐 <b>Portfolio:</b> <a href="https://monokotil-studio.biz.id/en/team/vanszas" target="_blank">monokotil-studio.biz.id/team/vanszas</a>
+      </p>
       <p>I’m diving deep into game development with the goal of creating games that everyone can enjoy—featuring appealing visuals, strong performance optimization, creative design, and an affordable experience. For the past 1.5 years, I’ve been focusing on 3D modeling and developing games in Unreal Engine 5. I’m proficient with Unreal Engine’s Blueprint system and also use C++ for game development.</p>
     </td>
     <td valign="top" width="30%" align="center">
@@ -41,6 +44,9 @@
 
 ### 📫 Connect with Me
 <p align="left">
+  <a href="https://monokotil-studio.biz.id/en/team/vanszas" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Monokotil%20Studio-86e6fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ivan-susendra?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
