@@ -22,19 +22,19 @@
 
 <p align="center">
   <a href="https://monokotil-studio.biz.id/en/team/vanszas" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-86e6fe?style=for-the-badge&logo=googlechrome&logoColor=0e0e0e&labelColor=1f1f1f" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-86e6fe?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1f1f1f" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ivan-susendra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-86e6fe?style=for-the-badge&logo=linkedin&logoColor=0e0e0e&labelColor=1f1f1f" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-86e6fe?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1f1f1f" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/vanszas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-86e6fe?style=for-the-badge&logo=instagram&logoColor=0e0e0e&labelColor=1f1f1f" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-86e6fe?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=1f1f1f" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@vanszas" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-86e6fe?style=for-the-badge&logo=youtube&logoColor=0e0e0e&labelColor=1f1f1f" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-86e6fe?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=1f1f1f" alt="YouTube" />
   </a>
   <a href="mailto:ivansusendra5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-86e6fe?style=for-the-badge&logo=gmail&logoColor=0e0e0e&labelColor=1f1f1f" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-86e6fe?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1f1f1f" alt="Email" />
   </a>
 </p>
 
