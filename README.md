@@ -2,6 +2,10 @@
   <img src="assets/github_welcome_pixel_avatar.gif" alt="Welcome Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+tools%2C+UI%2FUX%2C+and+gameplay+features" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Ivan Susendra — Vanszas</h1>
 
 <p align="center">
@@ -34,16 +38,25 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e0e0e,100:86e6fe&height=2&section=header" width="100%" />
+</p>
+
 <table align="center" width="100%">
-  <tr>
+  <tr bgcolor="#1f1f1f">
     <td width="33%" align="center">
-      📍 <b>Location</b><br>Indonesia
+      📍 <b>Based In</b><br>Indonesia
     </td>
     <td width="33%" align="center">
-      🎮 <b>Current Studio</b><br>Co-Founder @ Monokotil Studio
+      🎮 <b>Current Work</b><br>Building <i>DontIn</i> @ Monokotil Studio
     </td>
     <td width="33%" align="center">
       🚀 <b>Primary Engine</b><br>Unreal Engine 5
+    </td>
+  </tr>
+  <tr bgcolor="#0e0e0e">
+    <td colspan="3" align="center">
+      🎯 <b>Core Focus</b>: Gameplay Programming, UI/UX Implementation, Tools, and Performance Optimization
     </td>
   </tr>
 </table>
@@ -60,7 +73,7 @@ As the Co-Founder of **Monokotil Studio**, an indie development team focused on 
 
 ## 🛠️ Currently Building
 
-I am currently developing **DontIn**, an original first-person psychological horror game built under Monokotil Studio in Unreal Engine 5. 
+I am currently developing **DontIn**, a first-person psychological horror game built under Monokotil Studio in Unreal Engine 5. 
 
 My work on this project is focused on:
 - Atmosphere & tension design
@@ -122,11 +135,11 @@ I work across game design, gameplay programming, UI/UX implementation, 3D asset 
 
 * **Modular Horror Trigger System** — A flexible, event-driven trigger/action architecture for building horror sequences, player reactions, and cinematic scares.
 * **In-Game OS Interface** — Highly interactive, realistic screen interfaces implemented directly into Unreal Engine gameplay.
-* **Dialogue and Choice Flow** — Systems managing branching conversations, event triggers, and state variables.
-* **Loading and Credits Flow** — Safe asynchronous level loading, save-state management, and dynamic UI transitions.
-* **Benchmark and Performance Tools** — In-game profiling tools featuring PresentMon integration, frame-time graphs, and hardware detection.
-* **Horror Atmosphere & Weather Tools** — Systems driving real-time visual changes, weather mechanics, and material wetness shaders.
-* **UI/UX Implementation** — Translation of concepts into production-ready widgets and interactive UI controllers.
+* **Dialogue and Choice Flow** — Dialogue system with player choices, sequencer-friendly control, and UI interaction flow.
+* **Loading and Credits Flow** — Game flow systems for loading transitions, credits scenes, input handling, and cinematic presentation.
+* **Benchmark and Performance Result System** — Built-in benchmark tools with FPS graph, hardware info, result widgets, and performance recommendations.
+* **Horror Atmosphere and Weather Plugin** — Dynamic horror atmosphere system with rain, fog, thunder, wetness, puddles, Niagara FX, and audio layers.
+* **UI/UX Implementation for Gameplay** — Designing and implementing UI directly into functional gameplay systems, not only visual mockups.
 
 ---
 
@@ -149,7 +162,7 @@ I work across game design, gameplay programming, UI/UX implementation, 3D asset 
 
 ---
 
-## 📚 Currently Learning
+## 📚 Learning Focus
 
 - Advanced Unreal Engine 5 C++ gameplay architecture.
 - Performance profiling and optimization workflows.
@@ -188,4 +201,8 @@ I’m open to collaborating on:
 <p align="center">
   <img src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake.svg?v=3#gh-light-mode-only" alt="Contribution Grid Snake Light" />
   <img src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake-dark.svg?v=3#gh-dark-mode-only" alt="Contribution Grid Snake Dark" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e0e,100:86e6fe&height=100&section=footer" width="100%" />
 </p>
