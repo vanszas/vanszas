@@ -55,21 +55,22 @@ I’m also the Co-Founder of **Monokotil Studio**, an indie game team focused on
 
 ## Featured Projects
 
+### Nightmare Project — Current Horror Game Project
+
+A first-person psychological horror game project built in **Unreal Engine 5**, featuring modular horror triggers, dialogue systems, interactive UI, OS-style in-game interfaces, loading flow, credits system, door portal mechanics, screenshot capture, and in-game benchmark tools.
+
 ### Monocots Horror Atmosphere Plugin
 
 Custom Unreal Engine 5 horror atmosphere plugin featuring dynamic rain, fog, thunder, wetness, puddles, Niagara FX, audio atmosphere, and editor-friendly controls.
 
 ### DontIn Benchmark System
 
-In-game benchmark system for Unreal Engine with PresentMon integration, FPS graph, hardware detection, result widget, status widget, and performance recommendation features.
-
-### POLIMDO GO
-
-Web-based student attendance MVP using QR Code, Geolocation, and Radius Validation. Built with Next.js, Tailwind CSS, Supabase PostgreSQL, and Prisma.
+In-game benchmark system for Unreal Engine with PresentMon integration, FPS graph, hardware detection, result widget, status widget, CSV/JSON export, and performance recommendation features.
 
 ### Monokotil Studio Website
 
 Portfolio and studio website built to showcase projects, team profiles, game development works, and studio branding.
+
 
 ---
 
