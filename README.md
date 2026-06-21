@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+tools%2C+UI%2FUX%2C+and+gameplay+features" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+tools%2C+UI%2FUX%2C+and+gameplay+features;AMIKOM+Alumnus+%7C+Class+of+1998" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Ivan Susendra — Vanszas</h1>
@@ -13,28 +13,28 @@
 </p>
 
 <p align="center">
-  <i>Building horror game experiences, gameplay systems, and Unreal Engine tools with a focus on atmosphere, interaction, and performance.</i>
+  Building horror game experiences, gameplay systems, and Unreal Engine tools with a focus on atmosphere, interaction, and performance.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanszas&label=Profile%20Views&color=0e76a8&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vanszas&label=Profile%20Views&color=86e6fe&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://monokotil-studio.biz.id/en/team/vanszas" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Monokotil%20Studio-86e6fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-86e6fe?style=for-the-badge&logo=googlechrome&logoColor=0e0e0e&labelColor=1f1f1f" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ivan-susendra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-86e6fe?style=for-the-badge&logo=linkedin&logoColor=0e0e0e&labelColor=1f1f1f" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/vanszas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-86e6fe?style=for-the-badge&logo=instagram&logoColor=0e0e0e&labelColor=1f1f1f" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@vanszas" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-86e6fe?style=for-the-badge&logo=youtube&logoColor=0e0e0e&labelColor=1f1f1f" alt="YouTube" />
   </a>
   <a href="mailto:ivansusendra5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ivansusendra5%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-86e6fe?style=for-the-badge&logo=gmail&logoColor=0e0e0e&labelColor=1f1f1f" alt="Email" />
   </a>
 </p>
 
@@ -43,144 +43,161 @@
 </p>
 
 <table align="center" width="100%">
-  <tr bgcolor="#1f1f1f">
-    <td width="33%" align="center">
-      📍 <b>Based In</b><br>Indonesia
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>📍 Base</h3>
+      <p>Indonesia</p>
     </td>
-    <td width="33%" align="center">
-      🎮 <b>Current Work</b><br>Building <i>DontIn</i> @ Monokotil Studio
+    <td width="34%" align="center" valign="top">
+      <h3>🎓 Education</h3>
+      <p>AMIKOM Alumnus<br><sub>Class of 1998</sub></p>
     </td>
-    <td width="33%" align="center">
-      🚀 <b>Primary Engine</b><br>Unreal Engine 5
+    <td width="33%" align="center" valign="top">
+      <h3>🏢 Studio</h3>
+      <p>Co-Founder<br><sub>Monokotil Studio</sub></p>
     </td>
   </tr>
-  <tr bgcolor="#0e0e0e">
-    <td colspan="3" align="center">
-      🎯 <b>Core Focus</b>: Gameplay Programming, UI/UX Implementation, Tools, and Performance Optimization
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🚀 Core Stack</h3>
+      <p>Unreal Engine 5<br><sub>C++ & Blueprints</sub></p>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <h3>🕹️ Active Project</h3>
+      <p>Building <b>DontIn</b><br><sub>Psychological Horror</sub></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎯 Focus Areas</h3>
+      <p>Horror Systems &bull; UI/UX<br><sub>Tools & Performance</sub></p>
     </td>
   </tr>
 </table>
 
----
-
 ## 🙋‍♂️ About Me
 
-I am Ivan Susendra (Vanszas), a game developer based in Indonesia, specializing in Unreal Engine 5 development. My core focus lies in programming gameplay systems, designing horror game mechanics, implementing in-game UI/UX, creating 3D assets, and developing custom technical tools.
+I am a game developer from Indonesia and an alumnus of Universitas AMIKOM Yogyakarta (Class of 1998), focusing on Unreal Engine 5 development. I specialize in gameplay systems, horror mechanics, technical UI/UX implementation, 3D asset creation, and developing custom technical game tools that streamline production.
 
-As the Co-Founder of **Monokotil Studio**, an indie development team focused on atmospheric first-person horror experiences, I combine design and technical execution to build games that are visually striking, highly optimized, and memorable for players.
+As the Co-Founder of Monokotil Studio, I am currently building **DontIn**, an original first-person psychological horror game. My goal is to bridge the gap between design and gameplay programming, ensuring that immersive atmospheres and complex game mechanics function together seamlessly and performantly.
 
----
+## 🎓 Education & Background
+
+<table width="100%">
+  <tr>
+    <td width="15%" align="center" valign="middle">
+      <img src="assets/amikom-logo.png" alt="AMIKOM Logo" width="75" />
+    </td>
+    <td>
+      <h3>Universitas AMIKOM Yogyakarta</h3>
+      <p>
+        <b>Alumnus — Class of 1998 (Angkatan 98)</b><br>
+        Deepening my background in technology and digital creation, paving the way for advanced technical workflows in game development, gameplay programming, and real-time visualization.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Currently Building
 
-I am currently developing **DontIn**, a first-person psychological horror game built under Monokotil Studio in Unreal Engine 5. 
+I am currently developing **DontIn**, a first-person psychological horror game built in Unreal Engine 5 under Monokotil Studio. The project serves as the culmination of my gameplay programming and technical implementation skills.
 
-My work on this project is focused on:
-- Atmosphere & tension design
-- Interactive gameplay & modular horror trigger systems
-- UI/UX implementation & in-game OS interfaces
-- Built-in benchmarking & performance tools
-
----
+Key development focuses include:
+- **Atmosphere & Cinematic Horror Flow**: Building immersive environments using dynamic lighting, fog, and weather.
+- **Modular Horror Systems**: Dynamic, event-driven scare triggers and interactive systems.
+- **Deep Gameplay Interaction**: Portal-door mechanics, dialogue systems, and high-fidelity player interactions.
+- **Game UI/UX Implementation**: Creating an in-game desktop OS style interface and in-game UI.
+- **Built-in Performance & Benchmark Tools**: Integrating real-time hardware benchmarking and diagnostics inside the game.
 
 ## ⚡ What Makes My Work Different
 
-I work across game design, gameplay programming, UI/UX implementation, 3D asset creation, and technical systems development. My focus is not only designing features, but also implementing them directly into playable game systems. By bridging the gap between art and programming, I ensure that gameplay mechanics, user interfaces, and visuals feel unified and run optimally.
-
----
+I bridge the gap between creative design and technical implementation. I do not just design UI layouts or draft gameplay concepts—I write the C++ and Blueprint systems that bring them to life, optimize their performance, and integrate them directly into the playable experience. Whether it is a modular horror trigger or a complex in-game computer interface, my goal is to ensure every system is fully functional, scalable, and responsive.
 
 ## 🎮 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 DontIn — Current Horror Game Project</h3>
-      <p><i>An original first-person psychological horror game developed with Unreal Engine 5 under Monokotil Studio.</i></p>
+      <h3>🕹️ DontIn</h3>
+      <p><i>An original first-person psychological horror game built in Unreal Engine 5 under Monokotil Studio.</i></p>
       <ul>
-        <li><b>Modular Horror Triggers:</b> Event-driven scare mechanics</li>
-        <li><b>Interactive Systems:</b> Gameplay interaction & portal mechanics</li>
-        <li><b>Dialogue & Flow:</b> Branching dialogue and choices</li>
-        <li><b>Technical UI:</b> In-game OS interfaces & transition systems</li>
-        <li><b>Benchmark Tools:</b> Built-in hardware benchmarking</li>
-        <li><b>Tech:</b> Unreal Engine 5, C++, Blueprints, UI/UX</li>
+        <li><b>Modular Horror:</b> Event-driven trigger & scare systems</li>
+        <li><b>Mechanics:</b> Dialogue, choices, & door-portal mechanics</li>
+        <li><b>Gameplay UI:</b> Interactive in-game desktop OS interface</li>
+        <li><b>Performance:</b> Built-in benchmarking & analysis tools</li>
+        <li><b>Tech:</b> UE5, C++, Blueprints, UI/UX Implementation</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Monocots Horror Atmosphere Plugin</h3>
-      <p><i>Custom Unreal Engine 5 horror atmosphere plugin for dynamic weather, visual systems, and editor-friendly control.</i></p>
+      <h3>🌧️ Monocots Horror Atmosphere</h3>
+      <p><i>Unreal Engine 5 horror atmosphere plugin for weather-driven real-time visual and audio control.</i></p>
       <ul>
         <li><b>Dynamic Weather:</b> Rain, fog, thunder, wetness, & puddles</li>
-        <li><b>Visual FX:</b> Custom Niagara particle setups</li>
-        <li><b>Audio Atmosphere:</b> Procedural ambient sound control</li>
-        <li><b>Editor Tooling:</b> Artist-friendly workflow</li>
-        <li><b>Tech:</b> Unreal Engine 5, C++, Niagara, Material System, Editor Tooling</li>
+        <li><b>Visual FX:</b> Customized Niagara particle systems</li>
+        <li><b>Audio:</b> Procedural ambient sound control layers</li>
+        <li><b>Tooling:</b> Artist-friendly Editor workflows & mood controls</li>
+        <li><b>Tech:</b> UE5, C++, Niagara, Material System, Editor Tooling</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>🌐 Monokotil Studio Website</h3>
-      <p><i>Portfolio and studio website built to showcase projects, team profiles, game development works, and studio branding.</i></p>
+      <p><i>Studio and portfolio web application built to display active projects, developer profiles, and studio branding.</i></p>
       <ul>
-        <li><b>Features:</b> Responsive UI, modern web design, database-backed game listings</li>
+        <li><b>Features:</b> Fully responsive UI, modern portfolio layout, and database-backed dynamic listings</li>
         <li><b>Tech Stack:</b> Next.js, Tailwind CSS, Supabase, Prisma</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
-
 ## 🔧 Technical Highlights
 
-* **Modular Horror Trigger System** — A flexible, event-driven trigger/action architecture for building horror sequences, player reactions, and cinematic scares.
-* **In-Game OS Interface** — Highly interactive, realistic screen interfaces implemented directly into Unreal Engine gameplay.
-* **Dialogue and Choice Flow** — Dialogue system with player choices, sequencer-friendly control, and UI interaction flow.
-* **Loading and Credits Flow** — Game flow systems for loading transitions, credits scenes, input handling, and cinematic presentation.
-* **Benchmark and Performance Result System** — Built-in benchmark tools with FPS graph, hardware info, result widgets, and performance recommendations.
-* **Horror Atmosphere and Weather Plugin** — Dynamic horror atmosphere system with rain, fog, thunder, wetness, puddles, Niagara FX, and audio layers.
-* **UI/UX Implementation for Gameplay** — Designing and implementing UI directly into functional gameplay systems, not only visual mockups.
-
----
+* **Modular Horror Trigger System**
+  * *A flexible trigger/action structure for building horror events, player reactions, and cinematic scares.*
+* **In-Game OS Interface**
+  * *Interactive desktop-style UI system for game-world computer interactions, files, browser, and player-facing information.*
+* **Dialogue and Choice Flow**
+  * *Dialogue system with player choices, sequencer-friendly control, and UI interaction flow.*
+* **Loading and Credits Flow**
+  * *Game flow systems for loading transitions, credits scenes, input handling, and cinematic presentation.*
+* **Benchmark & Performance Result System**
+  * *Built-in benchmark tools with FPS graph, hardware info, result widgets, and performance recommendations.*
+* **Horror Atmosphere & Weather Plugin**
+  * *Dynamic horror atmosphere system with rain, fog, thunder, wetness, puddles, Niagara FX, and audio layers.*
+* **UI/UX Implementation for Gameplay**
+  * *Designing and implementing UI directly into functional gameplay systems, not only visual mockups.*
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Blueprints-0E76A8?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprints" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Niagara-F5792A?style=for-the-badge" alt="Niagara" />
-  <img src="https://img.shields.io/badge/3D%20Modeling-8A2BE2?style=for-the-badge" alt="3D Modeling" />
-  <img src="https://img.shields.io/badge/UI%2FUX-86e6fe?style=for-the-badge&logoColor=black" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Game%20Optimization-111111?style=for-the-badge" alt="Game Optimization" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=86e6fe" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1f1f1f?style=for-the-badge&logo=c%2B%2B&logoColor=86e6fe" alt="C++" />
+  <img src="https://img.shields.io/badge/Blueprints-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=86e6fe" alt="Blueprints" />
+  <img src="https://img.shields.io/badge/Niagara_VFX-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=86e6fe" alt="Niagara" />
+  <img src="https://img.shields.io/badge/3D_Modeling-1f1f1f?style=for-the-badge&logo=blender&logoColor=86e6fe" alt="3D Modeling" />
+  <img src="https://img.shields.io/badge/UI%2FUX-1f1f1f?style=for-the-badge&logo=adobecreativecloud&logoColor=86e6fe" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Optimization-1f1f1f?style=for-the-badge&logo=speedtest&logoColor=86e6fe" alt="Optimization" />
+  <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=for-the-badge&logo=nextdotjs&logoColor=86e6fe" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1f1f1f?style=for-the-badge&logo=tailwindcss&logoColor=86e6fe" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-1f1f1f?style=for-the-badge&logo=supabase&logoColor=86e6fe" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-1f1f1f?style=for-the-badge&logo=prisma&logoColor=86e6fe" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=86e6fe" alt="Git" />
 </p>
-
----
 
 ## 📚 Learning Focus
 
-- Advanced Unreal Engine 5 C++ gameplay architecture.
-- Performance profiling and optimization workflows.
-- Advanced horror atmosphere, lighting, and level design.
-- Better production workflow for indie game development.
-
----
+* 🚀 **Advanced Unreal Engine C++** gameplay architectures & systems
+* ⏱️ **Performance profiling** & advanced optimization workflows
+* 🕯️ **Advanced horror environments**, lighting, and level design
+* 📦 **Indie production workflows** for efficient solo & small-team pipelines
 
 ## 🤝 Open to Collaborate
 
-I’m open to collaborating on:
-- Psychological horror and first-person horror game projects.
-- Unreal Engine gameplay systems.
-- Game UI/UX implementation.
-- Indie game jams.
-- Unreal Engine tools and technical gameplay features.
-
----
+I am always interested in discussing new opportunities, especially regarding:
+* 💀 First-person psychological horror projects
+* ⚙️ Unreal Engine gameplay mechanics & tool development
+* 🖥️ Technical UI/UX design & integration
+* 🕹️ Indie game jams & collaborative prototype building
 
 <details>
   <summary><b>📊 View GitHub Statistics</b></summary>
@@ -193,8 +210,6 @@ I’m open to collaborating on:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanszas&theme=dark&background=0e0e0e&ring=86e6fe&fire=86e6fe&currStreakNum=f5f5f5&sideNums=f5f5f5&sideLabels=f5f5f5&dates=f5f5f5&currStreakLabel=86e6fe" alt="Vanszas Streak Stats" />
   </p>
 </details>
-
----
 
 ## 🏆 Contribution Grid Snake
 
