@@ -72,7 +72,7 @@
 
 ### 🏆 Contribution Grid Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Vanszas's Contribution Grid Snake" />
-  <img src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Vanszas's Contribution Grid Snake" />
+  <img src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake.svg?v=3#gh-light-mode-only" alt="Vanszas's Contribution Grid Snake" />
+  <img src="https://raw.githubusercontent.com/vanszas/vanszas/output/github-contribution-grid-snake-dark.svg?v=3#gh-dark-mode-only" alt="Vanszas's Contribution Grid Snake" />
 </p>
 
