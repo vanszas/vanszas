@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+tools%2C+UI%2FUX%2C+and+gameplay+features;AMIKOM+Alumnus+%7C+Class+of+1998" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+tools%2C+UI%2FUX%2C+and+gameplay+features;AMIKOM+Alumnus+%7C+Angkatan+98+%7C+Class+of+2026" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Ivan Susendra — Vanszas</h1>
@@ -46,11 +46,11 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <h3>📍 Base</h3>
-      <p>Indonesia</p>
+      <p>Yogyakarta, Indonesia</p>
     </td>
     <td width="34%" align="center" valign="top">
       <h3>🎓 Education</h3>
-      <p>AMIKOM Alumnus<br><sub>Class of 1998</sub></p>
+      <p>AMIKOM Alumnus<br><sub>Angkatan 98 (Class of 2026)</sub></p>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>🏢 Studio</h3>
@@ -75,7 +75,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a game developer from Indonesia and an alumnus of Universitas AMIKOM Yogyakarta (Class of 1998), focusing on Unreal Engine 5 development. I specialize in gameplay systems, horror mechanics, technical UI/UX implementation, 3D asset creation, and developing custom technical game tools that streamline production.
+I am a game developer originally from Gunungkidul, Yogyakarta, Indonesia, and an alumnus of Universitas AMIKOM Yogyakarta (Angkatan 98, entering in 2022 and graduating in 2026). I focus on Unreal Engine 5 development, specializing in gameplay systems, horror mechanics, technical UI/UX implementation, 3D asset creation, and developing custom technical game tools that streamline production.
 
 As the Co-Founder of Monokotil Studio, I am currently building **DontIn**, an original first-person psychological horror game. My goal is to bridge the gap between design and gameplay programming, ensuring that immersive atmospheres and complex game mechanics function together seamlessly and performantly.
 
@@ -89,7 +89,7 @@ As the Co-Founder of Monokotil Studio, I am currently building **DontIn**, an or
     <td>
       <h3>Universitas AMIKOM Yogyakarta</h3>
       <p>
-        <b>Alumnus — Class of 1998 (Angkatan 98)</b><br>
+        <b>Alumnus — Angkatan 98 (Class of 2026 / Entering 2022)</b><br>
         Deepening my background in technology and digital creation, paving the way for advanced technical workflows in game development, gameplay programming, and real-time visualization.
       </p>
     </td>
