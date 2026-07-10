@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+tools%2C+UI%2FUX%2C+and+gameplay+features;AMIKOM+Alumnus+%7C+Angkatan+98+%7C+Class+of+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+editor+tools%2C+plugins%2C+UI%2FUX%2C+and+optimization+workflows;AMIKOM+Alumnus+%7C+Angkatan+98+%7C+Class+of+2026" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Ivan Susendra — Vanszas</h1>
 
 <p align="center">
-  <b>Game Developer | Gameplay Programmer | 3D Modeler</b>
+  <b>Game Developer | Gameplay Programmer | 3D Modeler | Unreal Engine Tool Developer</b>
 </p>
 
 <p align="center">
-  Building horror game experiences, gameplay systems, and Unreal Engine tools with a focus on atmosphere, interaction, and performance.
+  Building horror game experiences, gameplay systems, Unreal Engine plugins, editor tools, and performance-focused workflows with a strong focus on atmosphere, interaction, and optimization.
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <h3>🎯 Focus Areas</h3>
-      <p>Horror Systems &bull; UI/UX<br><sub>Tools & Performance</sub></p>
+      <p>Horror Systems &bull; Plugins<br><sub>Editor Tools & Performance</sub></p>
     </td>
   </tr>
 </table>
@@ -77,7 +77,7 @@
 
 I am a game developer originally from Gunungkidul, Yogyakarta, Indonesia, and an alumnus of Universitas AMIKOM Yogyakarta (Angkatan 98, entering in 2022 and graduating in 2026). I focus on Unreal Engine 5 development, specializing in gameplay systems, horror mechanics, technical UI/UX implementation, 3D asset creation, and developing custom technical game tools that streamline production.
 
-As the Co-Founder of Monokotil Studio, I am currently building **DontIn**, an original first-person psychological horror game. My goal is to bridge the gap between design and gameplay programming, ensuring that immersive atmospheres and complex game mechanics function together seamlessly and performantly.
+As the Co-Founder of Monokotil Studio, I am currently building **DontIn**, an original first-person psychological horror game. My goal is to bridge the gap between design and gameplay programming, ensuring that immersive atmospheres, complex mechanics, editor tooling, and optimization workflows function together seamlessly and performantly.
 
 ## 🎓 Education & Background
 
@@ -98,18 +98,56 @@ As the Co-Founder of Monokotil Studio, I am currently building **DontIn**, an or
 
 ## 🛠️ Currently Building
 
-I am currently developing **DontIn**, a first-person psychological horror game built in Unreal Engine 5 under Monokotil Studio. The project serves as the culmination of my gameplay programming and technical implementation skills.
+I am currently developing **DontIn**, a first-person psychological horror game built in Unreal Engine 5 under Monokotil Studio. The project serves as the culmination of my gameplay programming, technical implementation, plugin development, and performance optimization skills.
 
 Key development focuses include:
-- **Atmosphere & Cinematic Horror Flow**: Building immersive environments using dynamic lighting, fog, and weather.
-- **Modular Horror Systems**: Dynamic, event-driven scare triggers and interactive systems.
-- **Deep Gameplay Interaction**: Portal-door mechanics, dialogue systems, and high-fidelity player interactions.
-- **Game UI/UX Implementation**: Creating an in-game desktop OS style interface and in-game UI.
-- **Built-in Performance & Benchmark Tools**: Integrating real-time hardware benchmarking and diagnostics inside the game.
+- **Atmosphere & Cinematic Horror Flow**: Building immersive environments using dynamic lighting, fog, weather, and mood-driven visual control.
+- **Modular Horror Systems**: Dynamic, event-driven scare triggers, interactive objects, missions, and cinematic gameplay flow.
+- **Deep Gameplay Interaction**: Portal-door mechanics, dialogue systems, save systems, loading flow, and high-fidelity player interactions.
+- **Game UI/UX Implementation**: Creating an in-game desktop OS style interface, save UI, benchmark UI, and player-facing game menus.
+- **Unreal Engine Plugins & Editor Tools**: Building production-focused plugins for atmosphere control, lighting optimization, and multi-window camera debugging.
+- **Built-in Performance & Benchmark Tools**: Integrating real-time hardware benchmarking, PresentMon-based diagnostics, FPS graphs, and optimization recommendations inside the game.
+
+## 🧩 Unreal Engine Plugin Work
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌧️ Monocots Horror Atmosphere</h3>
+      <p><i>UE5 horror atmosphere plugin for weather-driven real-time visual and audio control.</i></p>
+      <ul>
+        <li><b>Version:</b> 2.0.4</li>
+        <li><b>Systems:</b> Rain, fog, thunder, wetness, puddles, particles, wind, and ambient audio</li>
+        <li><b>Workflow:</b> Artist-friendly editor controls, live preview, mood sliders, and Niagara integration</li>
+        <li><b>Tech:</b> UE5, C++, Niagara, Material Parameter Collections, Editor Tooling</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💡 Monocots Lighting Optimizer</h3>
+      <p><i>Runtime and editor plugin for optimizing light cost, distance tiers, and shadow behavior.</i></p>
+      <ul>
+        <li><b>Version:</b> 1.5.2</li>
+        <li><b>Systems:</b> HD, Cheap, Off, and Locked light tiers with safe restore behavior</li>
+        <li><b>Workflow:</b> Profile presets, camera-based light LOD, zones, audits, and editor previews</li>
+        <li><b>Tech:</b> UE5, C++, Runtime Module, Editor Module, Blueprint Library</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎥 Multi Window Camera Debugger</h3>
+      <p><i>Advanced multi-window camera inspection plugin for debugging visibility, culling, LOD, and optimization states.</i></p>
+      <ul>
+        <li><b>Version:</b> 1.13.3</li>
+        <li><b>Systems:</b> Native camera windows, camera picker, render diagnostics, overlays, freeze/realtime control</li>
+        <li><b>Workflow:</b> Level Designer, Optimizer, Debug QA, Cinematic, and Custom workspace presets</li>
+        <li><b>Tech:</b> UE5, C++, Slate, SWindow, Editor Viewport, Render Diagnostics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## ⚡ What Makes My Work Different
 
-I bridge the gap between creative design and technical implementation. I do not just design UI layouts or draft gameplay concepts—I write the C++ and Blueprint systems that bring them to life, optimize their performance, and integrate them directly into the playable experience. Whether it is a modular horror trigger or a complex in-game computer interface, my goal is to ensure every system is fully functional, scalable, and responsive.
+I bridge the gap between creative design and technical implementation. I do not just design UI layouts or draft gameplay concepts—I write the C++ and Blueprint systems that bring them to life, optimize their performance, and integrate them directly into the playable experience. Whether it is a modular horror trigger, a complex in-game computer interface, or an Unreal Engine editor plugin, my goal is to ensure every system is fully functional, scalable, and responsive.
 
 ## 🎮 Featured Projects
 
@@ -119,31 +157,30 @@ I bridge the gap between creative design and technical implementation. I do not 
       <h3>🕹️ DontIn</h3>
       <p><i>An original first-person psychological horror game built in Unreal Engine 5 under Monokotil Studio.</i></p>
       <ul>
-        <li><b>Modular Horror:</b> Event-driven trigger & scare systems</li>
-        <li><b>Mechanics:</b> Dialogue, choices, & door-portal mechanics</li>
-        <li><b>Gameplay UI:</b> Interactive in-game desktop OS interface</li>
-        <li><b>Performance:</b> Built-in benchmarking & analysis tools</li>
-        <li><b>Tech:</b> UE5, C++, Blueprints, UI/UX Implementation</li>
+        <li><b>Modular Horror:</b> Event-driven trigger, mission, scare, and story systems</li>
+        <li><b>Mechanics:</b> Dialogue, choices, save/load, item interaction, and door-portal mechanics</li>
+        <li><b>Gameplay UI:</b> Interactive in-game desktop OS interface and modular widgets</li>
+        <li><b>Performance:</b> Built-in benchmarking, live FPS diagnostics, and optimization tools</li>
+        <li><b>Tech:</b> UE5, C++, Blueprints, Slate/UMG, UI/UX Implementation</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌧️ Monocots Horror Atmosphere</h3>
-      <p><i>Unreal Engine 5 horror atmosphere plugin for weather-driven real-time visual and audio control.</i></p>
+      <h3>🧪 Unreal Engine Tooling Suite</h3>
+      <p><i>A collection of custom UE5 plugins and production tools used to support horror development, debugging, and optimization.</i></p>
       <ul>
-        <li><b>Dynamic Weather:</b> Rain, fog, thunder, wetness, & puddles</li>
-        <li><b>Visual FX:</b> Customized Niagara particle systems</li>
-        <li><b>Audio:</b> Procedural ambient sound control layers</li>
-        <li><b>Tooling:</b> Artist-friendly Editor workflows & mood controls</li>
-        <li><b>Tech:</b> UE5, C++, Niagara, Material System, Editor Tooling</li>
+        <li><b>Atmosphere:</b> Weather, mood, wetness, puddles, particles, and sound control</li>
+        <li><b>Lighting:</b> Camera-aware light optimization, budgets, shadow tiers, and safe restore</li>
+        <li><b>Debugging:</b> Multi-window camera inspection, culling preview, LOD audits, and render diagnostics</li>
+        <li><b>Tech:</b> UE5, C++, Editor Modules, Runtime Modules, Slate, Niagara</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>🌐 Monokotil Studio Website</h3>
-      <p><i>Studio and portfolio web application built to display active projects, developer profiles, and studio branding.</i></p>
+      <p><i>Studio and portfolio web application built to display active projects, developer profiles, studio branding, news, and game-related updates.</i></p>
       <ul>
-        <li><b>Features:</b> Fully responsive UI, modern portfolio layout, and database-backed dynamic listings</li>
+        <li><b>Features:</b> Fully responsive UI, modern portfolio layout, database-backed dynamic listings, and game subscription/update workflows</li>
         <li><b>Tech Stack:</b> Next.js, Tailwind CSS, Supabase, Prisma</li>
       </ul>
     </td>
@@ -152,18 +189,20 @@ I bridge the gap between creative design and technical implementation. I do not 
 
 ## 🔧 Technical Highlights
 
+* **Monocots Horror Atmosphere Plugin**
+  * *Dynamic horror atmosphere system with rain, fog, thunder, wetness, puddles, Niagara FX, wind, particles, and audio layers.*
+* **Monocots Lighting Optimizer Plugin**
+  * *Runtime/editor lighting optimizer with light tiers, camera-based LOD, profile presets, zones, audits, and safe state restoration.*
+* **Multi Window Camera Debugger Plugin**
+  * *Multi-window camera tool for observing camera views, culling behavior, LOD states, render diagnostic modes, and optimization audit data.*
+* **Benchmark & Performance Result System**
+  * *Built-in benchmark tools with PresentMon capture, FPS graph, hardware info, result widgets, live diagnostics, and performance recommendations.*
 * **Modular Horror Trigger System**
   * *A flexible trigger/action structure for building horror events, player reactions, and cinematic scares.*
 * **In-Game OS Interface**
   * *Interactive desktop-style UI system for game-world computer interactions, files, browser, and player-facing information.*
-* **Dialogue and Choice Flow**
-  * *Dialogue system with player choices, sequencer-friendly control, and UI interaction flow.*
-* **Loading and Credits Flow**
-  * *Game flow systems for loading transitions, credits scenes, input handling, and cinematic presentation.*
-* **Benchmark & Performance Result System**
-  * *Built-in benchmark tools with FPS graph, hardware info, result widgets, and performance recommendations.*
-* **Horror Atmosphere & Weather Plugin**
-  * *Dynamic horror atmosphere system with rain, fog, thunder, wetness, puddles, Niagara FX, and audio layers.*
+* **Dialogue, Mission, Save, and Loading Flow**
+  * *Gameplay flow systems for dialogue choices, mission state, save slots, loading transitions, story streaming, and cinematic presentation.*
 * **UI/UX Implementation for Gameplay**
   * *Designing and implementing UI directly into functional gameplay systems, not only visual mockups.*
 
@@ -173,6 +212,8 @@ I bridge the gap between creative design and technical implementation. I do not 
   <img src="https://img.shields.io/badge/Unreal_Engine-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=86e6fe" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/C%2B%2B-1f1f1f?style=for-the-badge&logo=c%2B%2B&logoColor=86e6fe" alt="C++" />
   <img src="https://img.shields.io/badge/Blueprints-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=86e6fe" alt="Blueprints" />
+  <img src="https://img.shields.io/badge/Editor_Tooling-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=86e6fe" alt="Editor Tooling" />
+  <img src="https://img.shields.io/badge/Slate_UI-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=86e6fe" alt="Slate UI" />
   <img src="https://img.shields.io/badge/Niagara_VFX-1f1f1f?style=for-the-badge&logo=unrealengine&logoColor=86e6fe" alt="Niagara" />
   <img src="https://img.shields.io/badge/3D_Modeling-1f1f1f?style=for-the-badge&logo=blender&logoColor=86e6fe" alt="3D Modeling" />
   <img src="https://img.shields.io/badge/UI%2FUX-1f1f1f?style=for-the-badge&logo=adobecreativecloud&logoColor=86e6fe" alt="UI/UX" />
@@ -186,17 +227,18 @@ I bridge the gap between creative design and technical implementation. I do not 
 
 ## 📚 Learning Focus
 
-* 🚀 **Advanced Unreal Engine C++** gameplay architectures & systems
+* 🚀 **Advanced Unreal Engine C++** gameplay architectures, editor modules, and plugin systems
 * ⏱️ **Performance profiling** & advanced optimization workflows
-* 🕯️ **Advanced horror environments**, lighting, and level design
+* 🎥 **Render diagnostics**, visibility analysis, LOD auditing, and camera debugging
+* 🕯️ **Advanced horror environments**, lighting, weather, atmosphere, and level design
 * 📦 **Indie production workflows** for efficient solo & small-team pipelines
 
 ## 🤝 Open to Collaborate
 
 I am always interested in discussing new opportunities, especially regarding:
 * 💀 First-person psychological horror projects
-* ⚙️ Unreal Engine gameplay mechanics & tool development
-* 🖥️ Technical UI/UX design & integration
+* ⚙️ Unreal Engine gameplay mechanics, plugins, and technical tool development
+* 🖥️ Technical UI/UX design, editor tooling, and integration
 * 🕹️ Indie game jams & collaborative prototype building
 
 <details>
