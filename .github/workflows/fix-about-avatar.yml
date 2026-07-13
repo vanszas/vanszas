@@ -1,0 +1,74 @@
+name: Fix About Me Avatar
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/fix-about-avatar.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fix-profile:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Restore crisp animated avatar
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p assets
+          curl --fail --silent --show-error --location \
+            --header "Authorization: Bearer ${GH_TOKEN}" \
+            --header "Accept: application/vnd.github.raw+json" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/git/blobs/b80e9f4ec9e669970c1042a0bd8add6ef9fce07b" \
+            --output assets/vanszas-avatar-readme.gif
+
+      - name: Merge avatar into About Me
+        shell: python
+        run: |
+          from pathlib import Path
+
+          readme = Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+          start_marker = "## 🎮 Pixel Avatar"
+          end_marker = "## 🎓 Education & Background"
+
+          if start_marker not in text or end_marker not in text:
+              raise SystemExit("Expected README markers were not found")
+
+          start = text.index(start_marker)
+          end = text.index(end_marker)
+          replacement = '''## 🙋‍♂️ About Me
+
+          <table width="100%">
+            <tr>
+              <td width="20%" align="center" valign="middle">
+                <img src="assets/vanszas-avatar-readme.gif" alt="Vanszas Pixel Avatar" width="128" />
+              </td>
+              <td width="80%" valign="middle">
+                <p>I am a game developer originally from Gunungkidul, Yogyakarta, Indonesia, and an alumnus of Universitas AMIKOM Yogyakarta (Angkatan 98, entering in 2022 and graduating in 2026). I focus on Unreal Engine 5 development, specializing in gameplay systems, horror mechanics, technical UI/UX implementation, 3D asset creation, and developing custom technical game tools that streamline production.</p>
+                <p>As the Co-Founder of Monokotil Studio, I am currently building <b>DontIn</b>, an original first-person psychological horror game. My goal is to bridge the gap between design and gameplay programming, ensuring that immersive atmospheres, complex mechanics, editor tooling, and optimization workflows function together seamlessly and performantly.</p>
+              </td>
+            </tr>
+          </table>
+
+          '''
+          replacement = replacement.replace("\n          ", "\n")
+          readme.write_text(text[:start] + replacement + text[end:], encoding="utf-8")
+
+      - name: Commit profile update
+        shell: bash
+        run: |
+          rm -f .github/workflows/fix-about-avatar.yml .github/workflows/update-about-avatar.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/vanszas-avatar-readme.gif .github/workflows
+          git commit -m "docs: integrate crisp avatar into About Me"
+          git push
