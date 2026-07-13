@@ -1,0 +1,56 @@
+name: Install Pixel Avatar
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/install-pixel-avatar.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  install-avatar:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Write animated avatar
+        shell: bash
+        run: |
+          mkdir -p assets
+          echo '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' | base64 --decode > assets/vanszas-avatar-readme.gif
+
+      - name: Update Pixel Avatar section
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path('README.md')
+          text = path.read_text(encoding='utf-8')
+          replacement = '''## 🎮 Pixel Avatar
+
+          <p align="center">
+            <img src="assets/vanszas-avatar-readme.gif" alt="Vanszas Pixel Avatar" width="180" />
+          </p>'''
+          pattern = r'## 🎮 Pixel Avatar\n.*?(?=\n## 🙋‍♂️ About Me)'
+          updated, count = re.subn(pattern, replacement, text, count=1, flags=re.S)
+          if count != 1:
+              raise SystemExit('Pixel Avatar section was not found exactly once.')
+          path.write_text(updated, encoding='utf-8')
+          PY
+
+      - name: Commit avatar and README
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/vanszas-avatar-readme.gif
+          git diff --cached --quiet && exit 0
+          git commit -m "docs: use animated pixel avatar in profile README"
+          git push
