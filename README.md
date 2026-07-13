@@ -73,16 +73,19 @@
   </tr>
 </table>
 
-## 🎮 Pixel Avatar
-
-<p align="center">
-  <img src="assets/vanszas-avatar-readme.gif" alt="Vanszas Pixel Avatar" width="180" />
-</p>
 ## 🙋‍♂️ About Me
 
-I am a game developer originally from Gunungkidul, Yogyakarta, Indonesia, and an alumnus of Universitas AMIKOM Yogyakarta (Angkatan 98, entering in 2022 and graduating in 2026). I focus on Unreal Engine 5 development, specializing in gameplay systems, horror mechanics, technical UI/UX implementation, 3D asset creation, and developing custom technical game tools that streamline production.
-
-As the Co-Founder of Monokotil Studio, I am currently building **DontIn**, an original first-person psychological horror game. My goal is to bridge the gap between design and gameplay programming, ensuring that immersive atmospheres, complex mechanics, editor tooling, and optimization workflows function together seamlessly and performantly.
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <img src="assets/vanszas-avatar-readme.gif" alt="Vanszas Pixel Avatar" width="128" />
+    </td>
+    <td width="80%" valign="middle">
+      <p>I am a game developer originally from Gunungkidul, Yogyakarta, Indonesia, and an alumnus of Universitas AMIKOM Yogyakarta (Angkatan 98, entering in 2022 and graduating in 2026). I focus on Unreal Engine 5 development, specializing in gameplay systems, horror mechanics, technical UI/UX implementation, 3D asset creation, and developing custom technical game tools that streamline production.</p>
+      <p>As the Co-Founder of Monokotil Studio, I am currently building <b>DontIn</b>, an original first-person psychological horror game. My goal is to bridge the gap between design and gameplay programming, ensuring that immersive atmospheres, complex mechanics, editor tooling, and optimization workflows function together seamlessly and performantly.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🎓 Education & Background
 
