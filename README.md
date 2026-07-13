@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+editor+tools%2C+plugins%2C+UI%2FUX%2C+and+optimization+workflows;AMIKOM+Alumnus+%7C+Angkatan+98+%7C+Class+of+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=86E6FE&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Gameplay+Programmer+%7C+3D+Modeler;Building+DontIn+with+Unreal+Engine+5;Creating+horror+systems%2C+render+analytics%2C+editor+tools%2C+and+optimization+plugins;AMIKOM+Alumnus+%7C+Angkatan+98+%7C+Class+of+2026" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Ivan Susendra — Vanszas</h1>
@@ -105,41 +105,53 @@ Key development focuses include:
 - **Modular Horror Systems**: Dynamic, event-driven scare triggers, interactive objects, missions, and cinematic gameplay flow.
 - **Deep Gameplay Interaction**: Portal-door mechanics, dialogue systems, save systems, loading flow, and high-fidelity player interactions.
 - **Game UI/UX Implementation**: Creating an in-game desktop OS style interface, save UI, benchmark UI, and player-facing game menus.
-- **Unreal Engine Plugins & Editor Tools**: Building production-focused plugins for atmosphere control, lighting optimization, and multi-window camera debugging.
+- **Unreal Engine Plugins & Editor Tools**: Building production-focused plugins for atmosphere control, local-light optimization, reversible MetaHuman optimization, multi-window diagnostics, and current-map health analysis.
 - **Built-in Performance & Benchmark Tools**: Integrating real-time hardware benchmarking, PresentMon-based diagnostics, FPS graphs, and optimization recommendations inside the game.
 
 ## 🧩 Unreal Engine Plugin Work
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🌧️ Monocots Horror Atmosphere</h3>
       <p><i>UE5 horror atmosphere plugin for weather-driven real-time visual and audio control.</i></p>
       <ul>
         <li><b>Version:</b> 2.0.4</li>
-        <li><b>Systems:</b> Rain, fog, thunder, wetness, puddles, particles, wind, and ambient audio</li>
-        <li><b>Workflow:</b> Artist-friendly editor controls, live preview, mood sliders, and Niagara integration</li>
-        <li><b>Tech:</b> UE5, C++, Niagara, Material Parameter Collections, Editor Tooling</li>
+        <li><b>Systems:</b> Rain, fog, thunder, wetness, puddles, particles, wind, light flicker, zones, and ambient audio</li>
+        <li><b>Workflow:</b> Artist-friendly editor controls, live preview, mood sliders, quick actions, and Niagara integration</li>
+        <li><b>Tech:</b> UE5, C++, Niagara, Material Parameter Collections, Runtime and Editor Modules</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>💡 Monocots Lighting Optimizer</h3>
-      <p><i>Runtime and editor plugin for optimizing light cost, distance tiers, and shadow behavior.</i></p>
+      <p><i>Opt-in runtime and editor manager for reversible local-light optimization.</i></p>
       <ul>
-        <li><b>Version:</b> 1.5.2</li>
-        <li><b>Systems:</b> HD, Cheap, Off, and Locked light tiers with safe restore behavior</li>
-        <li><b>Workflow:</b> Profile presets, camera-based light LOD, zones, audits, and editor previews</li>
-        <li><b>Tech:</b> UE5, C++, Runtime Module, Editor Module, Blueprint Library</li>
+        <li><b>Version:</b> 1.6.0</li>
+        <li><b>Systems:</b> Per-light roles, distance tiers, stable shadows, zones, scalability presets, and exact restore</li>
+        <li><b>Workflow:</b> Transactional editor actions, live viewport preview, audits, safe optimization, and non-destructive recovery</li>
+        <li><b>Tech:</b> UE5.7, C++, Runtime Module, Editor Module, Blueprint API</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h3>🎥 Multi Window Camera Debugger</h3>
-      <p><i>Advanced multi-window camera inspection plugin for debugging visibility, culling, LOD, and optimization states.</i></p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑 Monokotil MetaHuman Optimizer</h3>
+      <p><i>Reversible MetaHuman runtime optimization and structured editor audit.</i></p>
       <ul>
-        <li><b>Version:</b> 1.13.3</li>
-        <li><b>Systems:</b> Native camera windows, camera picker, render diagnostics, overlays, freeze/realtime control</li>
-        <li><b>Workflow:</b> Level Designer, Optimizer, Debug QA, Cinematic, and Custom workspace presets</li>
-        <li><b>Tech:</b> UE5, C++, Slate, SWindow, Editor Viewport, Render Diagnostics</li>
+        <li><b>Version:</b> 1.7.0</li>
+        <li><b>Systems:</b> Camera-aware quality tiers, Groom and component policies, nested ownership, decision tracing, and optional frame-time budgeting</li>
+        <li><b>Workflow:</b> Transactional install/update, per-issue apply and revert, Blueprint-aware ownership, JSON audit export, and Original/Optimized A/B integration</li>
+        <li><b>Safety:</b> No automatic asset save, material merge, morph deletion, skeleton reduction, or source texture resize</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎥 Monocots Render Analytics</h3>
+      <p><i>Expanded from Multi Window Camera Debugger into an evidence-driven render diagnostics and optimization workspace.</i></p>
+      <ul>
+        <li><b>Version:</b> 1.24.0</li>
+        <li><b>Systems:</b> Native camera windows, renderer diagnostics, loaded-map audits, resource-cost evidence, current-map health, history, and A/B profiling</li>
+        <li><b>Workflow:</b> Stable finding IDs, deterministic priorities, guarded fixes, JSON/CSV/TXT reports, validation, drift tracking, and optional MHO/MLO handoffs</li>
+        <li><b>Tech:</b> UE5.7, C++, Slate, SWindow, native viewports, Editor Tooling, Render Diagnostics</li>
       </ul>
     </td>
   </tr>
@@ -169,9 +181,10 @@ I bridge the gap between creative design and technical implementation. I do not 
       <p><i>A collection of custom UE5 plugins and production tools used to support horror development, debugging, and optimization.</i></p>
       <ul>
         <li><b>Atmosphere:</b> Weather, mood, wetness, puddles, particles, and sound control</li>
-        <li><b>Lighting:</b> Camera-aware light optimization, budgets, shadow tiers, and safe restore</li>
-        <li><b>Debugging:</b> Multi-window camera inspection, culling preview, LOD audits, and render diagnostics</li>
-        <li><b>Tech:</b> UE5, C++, Editor Modules, Runtime Modules, Slate, Niagara</li>
+        <li><b>Lighting:</b> Camera-aware local-light optimization, roles, shadow tiers, audits, and exact restore</li>
+        <li><b>MetaHuman:</b> Reversible quality tiers, nested character ownership, structured audits, and per-issue recovery</li>
+        <li><b>Render Analytics:</b> Native multi-window inspection, current-map health, A/B evidence, resource reports, history, and guarded fixes</li>
+        <li><b>Tech:</b> UE5.7, C++, Editor Modules, Runtime Modules, Slate, Niagara</li>
       </ul>
     </td>
   </tr>
@@ -190,11 +203,13 @@ I bridge the gap between creative design and technical implementation. I do not 
 ## 🔧 Technical Highlights
 
 * **Monocots Horror Atmosphere Plugin**
-  * *Dynamic horror atmosphere system with rain, fog, thunder, wetness, puddles, Niagara FX, wind, particles, and audio layers.*
+  * *Dynamic horror atmosphere system with rain, fog, thunder, wetness, puddles, Niagara FX, wind, particles, zones, and audio layers.*
 * **Monocots Lighting Optimizer Plugin**
-  * *Runtime/editor lighting optimizer with light tiers, camera-based LOD, profile presets, zones, audits, and safe state restoration.*
-* **Multi Window Camera Debugger Plugin**
-  * *Multi-window camera tool for observing camera views, culling behavior, LOD states, render diagnostic modes, and optimization audit data.*
+  * *Transactional runtime/editor local-light optimizer with per-light roles, camera-based tiers, live preview, audits, scalability presets, and exact restoration.*
+* **Monokotil MetaHuman Optimizer Plugin**
+  * *Reversible MetaHuman optimizer with structured per-component audits, nested Blueprint ownership, guarded editor actions, policy-level revert, and optional global budgeting.*
+* **Monocots Render Analytics Plugin**
+  * *Native multi-window render diagnostics with current-map health, loaded-resource evidence, deterministic findings, A/B profiling, history, validation, and guarded fixes.*
 * **Benchmark & Performance Result System**
   * *Built-in benchmark tools with PresentMon capture, FPS graph, hardware info, result widgets, live diagnostics, and performance recommendations.*
 * **Modular Horror Trigger System**
